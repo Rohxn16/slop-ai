@@ -20,4 +20,4 @@ What SlopAI does:
 - [ ]  Audio generation from narration
 - [ ]  Video add on to content
 - [ ]  Audtomated pulishing pipeline
-- [ ]  Webapp interface for quick creation
+- [ ]  UI interface for quick creation
