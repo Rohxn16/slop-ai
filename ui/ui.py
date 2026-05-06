@@ -1,6 +1,8 @@
 import streamlit as st
 import os
 
+from pov_generator.pov import POV
+
 st.write("# Welcome to Slop.AI !")
 st.write('### Drop your story and generate your production ready video.')
 
